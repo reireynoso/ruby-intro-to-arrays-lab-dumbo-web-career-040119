@@ -18,4 +18,7 @@ def last_element(array)
   return array[-1]
 end
 
-def first_element_
+def first_element_with_array_methods(array)
+  return array.shift
+end
+
